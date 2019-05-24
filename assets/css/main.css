@@ -2197,7 +2197,7 @@ input, select, textarea {
 
 			.panel > *.color4 {
 				background-image: url("../../images/megann.gif"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
-				background-size:  390px 590px;
+				background-size:  390px 700px;
 				background-color: #353865;
 			}
 
